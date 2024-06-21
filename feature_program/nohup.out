@@ -1,0 +1,7 @@
+[1] TRUE
+[1] TRUE
+Warning message:
+In readLines(protein, 1) :
+  读'/Volumes/MyPassport/科研/四体蛋白质界面残基对预测/renew/feature_program/data/pdb/2h8n_C.pdb'时最后一行未遂
+[1] TRUE
+[1] TRUE
